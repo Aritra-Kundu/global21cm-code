@@ -9,7 +9,7 @@ global_21m_constrain_DM_b.py - Provides the contraint on the mass of dark matter
 
 Temp_Ion_Frac_evolve_plot.py - Plots the redshift evolution of temperatures and hydrogen ionization fraction.
 
-global_21cm_with_DM_ann.py - Includes dark matter baryon interaction as well as dark matter annihilation.
+global_21cm_with_DM_ann.py - Simulates the redshift evolution of the quantities by including dark matter baryon interaction as well as dark matter annihilation
 
 
 Future plans:-
