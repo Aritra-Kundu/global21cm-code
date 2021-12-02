@@ -5,7 +5,7 @@ Following are the codes included in this folder.
 
 global_21cm.py - Simulates the redshift evolution of the gas kinetic temperature, hydrogen ionization fraction, dark matter temperature and relative velocity between dark matter and baryons.
 
-global_21m_constrain_DM_b.py - Provides the contraint on the mass of dark matter particles and the interaction cross-section.
+global_21m_constrain_DM_b.py - Provides the contraint on the mass of dark matter particles and the interaction cross-section as well as generates the data for change in ionization fraction versus the amplitude of the global signal at z = 17.2
 
 Temp_Ion_Frac_evolve_plot.py - Plots the redshift evolution of temperatures and hydrogen ionization fraction.
 
